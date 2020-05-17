@@ -1,6 +1,6 @@
 # Data Science Course Study Material
 
-This course is provide by (iNeuron.ai)[https://ineuron.ai/home/data-science-masters/]
+This course is provide by [iNeuron.ai](https://ineuron.ai/home/data-science-masters/)
 
 ## Python Core
   - Introduction of python and comparison with other programming language
